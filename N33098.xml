@@ -120,12 +120,13 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:043425_0000_101D07E909F00D58"/>
-            <pb facs="tcp:043425_0001_101D07F365AE1288" rendition="simple:additions"/>
+            <pb facs="unknown:043425_0000_101D07E909F00D58"/>
+            <pb facs="unknown:043425_0001_101D07F365AE1288"
+                rendition="simple:additions"/>
             <head>
                <figure/> The Lives, Laſt Words, and Dying Speech of EZRA ROSS. JAMES BUCHANAN, and WILLIAM BROOKS, who were executed at WOR<g ref="char:EOLhyphen"/>CESTER, on Thurſday the 2d Day of July, 1778. for the Murder of Mr. JOSHUA SPOONER, of BROOKFIELD. BATHSHEBA SPOONER, who was convicted of being aceſſary to the Murder was alſo executed at the ſame Time.</head>
             <p>
-               <pb facs="tcp:043425_0002_101D07F72957E0A8"/>
+               <pb facs="unknown:043425_0002_101D07F72957E0A8"/>
                <seg rend="decorInit">I</seg> JAMES BUCHANAN was a Serjeant in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Army under General Burgoyne, born in Gla<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -206,7 +207,7 @@
                </gap>ong his neighbors, it is likely he was informed how long we had been <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>here, and pro<g ref="char:EOLhyphen"/>bably
-<pb n="3" facs="tcp:043425_0002_101D07F72957E0A8"/>
+<pb n="3" facs="unknown:043425_0002_101D07F72957E0A8"/>
 heard at the tavern of the quantity of liquor he had to pay for, ſince his going on his journey. Be that as it may, at night he came home, and ſeeing we were not gone, he deſired us to go immediately. We begged he would let us ſtay 'till morn<g ref="char:EOLhyphen"/>ing: He after ſome time conſented that we ſhould ſtay by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>re all night. He was in the ſitting room by himſelf, and Mrs. Spooner went to bed. There was one Reuben Old, came upon ſome buſineſs with Mr. Spooner, and after ſome time came out and told us that Mr. Spooner told him he was afraid we ſhould rob him, adding, that he had loſt a ſilver ſpoon, and a great deal of pewter. This vexed us, as we were conſcious we had no thought of ſtealing from him. Had we been ſo inclined, we had as much opportunity as we could have deſired. The ſpoon, he found where he laid it, Cummings convinced him there was none of the pewter miſſing. Mr. Spooner went up ſtairs and brought down a box, which he had his money in, and laid down on the floor with it under his head. Every thing Mr. Spooner did or ſaid, Old came and told us, and was out with us all the time he was aſleep, and we were all merry to<g ref="char:EOLhyphen"/>gether, ſitting by the kitchen fire. Said Old declared in court, that I (Buchanan) ſaid, if Mr. Spooner came out I would for two coppers put him in the well, which is falſe. In the morn<g ref="char:EOLhyphen"/>ing, it not being convenient to ſee Mrs. Spooner to take our leave of her, we, Buchanan, Brooks, and Cummings, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -222,7 +223,7 @@ heard at the tavern of the quantity of liquor he had to pay for, ſince his goin
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ent back on her horſe, and ſhe and I went home.—Brooks miſs'd his road on his return, but got to the houſe ſome time after us, but did not get the handkerchief, as the ſoldier would not deliver it, until he ſaw Mrs. Spooner. Buchanan and Brooks ſtayed that night in the barn, in the morning went to Gilbert's Tavern,
-<pb n="4" facs="tcp:043425_0003_101D07F9061265C8"/>
+<pb n="4" facs="unknown:043425_0003_101D07F9061265C8"/>
 and ſtaid there ſome time, and on coming out from his houſe, we ſaw Cummings coming on one of Mr. Spooner's horſes, he told us his maſter was gone to the tavern, and that his miſtreſs deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ed we would come there, which we did, and had ſupper, we went to the barn that night, and in the morning ſhe ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -261,7 +262,7 @@ and ſtaid there ſome time, and on coming out from his houſe, we ſaw Cummings
                   <desc>•</desc>
                </gap>t ſome, which was agreed to.</p>
             <p>
-               <pb n="5" facs="tcp:043425_0003_101D07F9061265C8"/>We ſet off on Wedneſday about noon, and in going by Mr. Spooner's we called in and told her where we were going; ſhe ſaid ſhe would follow us down next day as ſhe wanted to ſee her ſiſter, ſaying ſhe was glad we had got work ſo near; and fur<g ref="char:EOLhyphen"/>ther added, that ſhe had two notes, one of twenty pounds law<g ref="char:EOLhyphen"/>ful, and another of three hundred dollars, which ſhe would an<g ref="char:EOLhyphen"/>
+               <pb n="5" facs="unknown:043425_0003_101D07F9061265C8"/>We ſet off on Wedneſday about noon, and in going by Mr. Spooner's we called in and told her where we were going; ſhe ſaid ſhe would follow us down next day as ſhe wanted to ſee her ſiſter, ſaying ſhe was glad we had got work ſo near; and fur<g ref="char:EOLhyphen"/>ther added, that ſhe had two notes, one of twenty pounds law<g ref="char:EOLhyphen"/>ful, and another of three hundred dollars, which ſhe would an<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> to get changed, and let me, Buchanan, have one hun<g ref="char:EOLhyphen"/>dred dollars, to purchaſe any thing I might want. We ſtaid in the barn 'till morning, and then ſet out for Worceſter, and ſhe followed us the ſame day and called at Mrs. Walker's <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -316,7 +317,7 @@ and ſtaid there ſome time, and on coming out from his houſe, we ſaw Cummings
             <p>Brooks ſaid, if Roſs would help him he would knock him down, accordingly, it was agreed on, and there was a look out kept a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="6" facs="tcp:043425_0004_101D07FC1073D678"/>
+               <pb n="6" facs="unknown:043425_0004_101D07FC1073D678"/>
 the ſitting room door for his coming, in the mean time there was ſome ſupper brought by Mrs. Stratten to us, we had ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>lip before, there was now ſome rum brought, which we drank, each of us by turns giving a look out. We are certain Mrs· Stratten could not but know what was going forward. That we leave to the judgment of the public. Mr. Spooner was at length ſeen coming, and then was the time for the Devil to ſhow his power over ſinners who had forſaken GOD.</p>
@@ -344,7 +345,7 @@ the ſitting room door for his coming, in the mean time there was ſome ſupper 
                   </gap>wn to Mr. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>own's tavern, there ſhewing Mr. Spooner's watch, and the people ſeeing him
-<pb n="7" facs="tcp:043425_0004_101D07FC1073D678"/>
+<pb n="7" facs="unknown:043425_0004_101D07FC1073D678"/>
 have ſilver buckles, became ſuſpicious of him, and one Enſign Clark going to Mrs. Walker's and ſeeing what paſſed there gave information concerning us. The news of the murder had now rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>hed the town, and we were all taken and brought to trial before the Committee, examined and committed to goal. On the 24th of April laſt we were brought to trial before the Superior Court, found guilty and received ſentence of death.</p>
@@ -400,7 +401,7 @@ have ſilver buckles, became ſuſpicious of him, and one Enſign Clark going to
                      <desc>〈◊〉</desc>
                   </gap>.</l>
                <l>
-                  <pb facs="tcp:043425_0005_101D07FD98D8EA88"/>
+                  <pb facs="unknown:043425_0005_101D07FD98D8EA88"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> I ſay a ſinful <gap reason="illegible" resp="#PDCC" extent="1 span">
